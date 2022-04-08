@@ -1,0 +1,2 @@
+# Olympic_analysis
+we are going to see the Olympics analysis using Python. The modern Olympic Games or Olympics are leading international sports events featuring summer and winter sports competitions in which thousands of athletes from around the world participate in a variety of competitions. The Olympic Games are considered the world’s foremost sports competition with more than 200 nations participating. In This data we are considering only summer Olympics. So this is end to end project of olympic data analysis using python library Streamlit to make web application.
